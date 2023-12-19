@@ -13,4 +13,10 @@ https://pcsnet.mywire.org
 <audio controls><source src="https://psmedia.ddnsgeek.com/m/relax/alanwalkerthespectrepianoorchestral.mp3" type="audio/mpeg"></audio>
 </center>
 
+# INSTALL OPTION
+
+CHECK README-INSTALL.TXT OR INSTALL.NFO INSIDE ICH PACKED APP (pcsnet.mywire.org or pcsnet.myftp.org)
+
+DDL PRIVATE KNOWN NETWORKS:  https://perc.ddns.net/ddl/
+
 
