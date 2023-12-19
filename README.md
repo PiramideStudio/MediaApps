@@ -27,7 +27,7 @@ Read before install readme.txt or install.txt file in unpacked app.
 <h2 style="color:blue;">
 🌍 Media Portal 📺 Piramide Studio NET 📱 Sponzored links 🐧</h2>
 <a title="www.noip.com - Best DDnS for your Business or Home Users" href="https://www.noip.com/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/logo-noip.png" alt="DDnS - www.noip.com - Bussiness - WEBCam - SmartHome" /></a>
-<a title="certbot.eff.org" href="https://certbot.eff.org/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/ssl.png" alt="CertBot - EFF.org - Best Freedom Foundation on this planet" /></a>
+<a title="certbot.eff.org" href="https://certbot.eff.org/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/certbot.png" alt="CertBot - EFF.org - Best Freedom Foundation on this planet" /></a>
 <a href="https://www.dynu.com/" title="Dynu.com - Bussiness - WEBCam - SmartHome - Best DDnS for your Business or Home Users" target="_blank"><img src="https://psmedia.mywire.org/i/logo-dynu.png" alt="DYNU" width="150" height="50" /></a>
 <a title="www.t-2.net" href="https://www.t-2.net/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/t2logo.png" alt="www.t-2.net" /></a>
 <a title="www.tvis.si" href="https://www.tvis.si/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/1tvis.png" alt="www.tvis.si" /></a>
