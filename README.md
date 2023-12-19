@@ -19,4 +19,18 @@ CHECK README-INSTALL.TXT OR INSTALL.NFO INSIDE ICH PACKED APP (pcsnet.mywire.org
 
 DDL PRIVATE KNOWN NETWORKS:  https://perc.ddns.net/ddl/
 
+Download Media App, unpack on your desktop and correct mysql data for your app, upload to your server + check info how to install on various system (Apache/Nginx)
 
+Read before install readme.txt or install.txt file in unpacked app.
+
+<center>                         
+<h2 style="color:blue;">
+🌍 Media Portal 📺 Piramide Studio NET 📱 Sponzored links 🐧</h2>
+<a title="www.noip.com - Best DDnS for your Business or Home Users" href="https://www.noip.com/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/logo-noip.png" alt="DDnS - www.noip.com - Bussiness - WEBCam - SmartHome" /></a>
+<a title="certbot.eff.org" href="https://certbot.eff.org/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/ssl.png" alt="CertBot - EFF.org - Best Freedom Foundation on this planet" /></a>
+<a href="https://www.dynu.com/" title="Dynu.com - Bussiness - WEBCam - SmartHome - Best DDnS for your Business or Home Users" target="_blank"><img src="https://psmedia.mywire.org/i/logo-dynu.png" alt="DYNU" width="150" height="50" /></a>
+<a title="www.t-2.net" href="https://www.t-2.net/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/t2logo.png" alt="www.t-2.net" /></a>
+<a title="www.tvis.si" href="https://www.tvis.si/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/1tvis.png" alt="www.tvis.si" /></a>
+<a title="www.malwarebytes.com - Best protection for your PC or Business" href="https://www.malwarebytes.com/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/malwarebytes.webp" alt="AntiVirus - FireWall - www.malwarebytes.com - Best protection for your PC or Business" /></a>
+<a title="www.telekom.si - First class Slovenian operater" href="https://www.telekom.si" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/telekom.png" alt="Telekom Slovenije - Slovenska Kakovost in Znanje" /></a>
+</center>  
