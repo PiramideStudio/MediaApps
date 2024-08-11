@@ -30,7 +30,7 @@ Read before install readme.txt or install.txt file in unpacked app.
 <a title="certbot.eff.org" href="https://certbot.eff.org/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/certbot.png" alt="CertBot - EFF.org - Best Freedom Foundation on this planet" /></a>
 <a href="https://www.dynu.com/" title="Dynu.com - Bussiness - WEBCam - SmartHome - Best DDnS for your Business or Home Users" target="_blank"><img src="https://psmedia.mywire.org/i/logo-dynu.png" alt="DYNU" width="150" height="50" /></a>
 <a title="www.t-2.net" href="https://www.t-2.net/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/logo-telekom.png" alt="www.telekom.si" /></a>
-<a title="www.tvis.si" href="https://www.tvis.si/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/1tvis.png" alt="www.tvis.si" /></a>
+<a title="www.tvis.si" href="https://www.tvis.si/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/TVIS-logo-barven_ww.png" alt="www.tvis.si" /></a>
 <a title="www.malwarebytes.com - Best protection for your PC or Business" href="https://www.malwarebytes.com/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/malwarebytes.webp" alt="AntiVirus - FireWall - www.malwarebytes.com - Best protection for your PC or Business" /></a>
 <a title="MalTrail + HCSNinjaFW" href="https://pcs.sytes.net:88/" target="_blank" rel="noopener"><img src="https://psmedia.mywire.org/i/ninjafirewalltech.png" alt="MalTrail (Malware Traffic Detection System) + HCSNinjaFW Best protection" /></a>
 </center>  
